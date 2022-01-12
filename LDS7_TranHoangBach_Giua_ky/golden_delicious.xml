@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<GOLDEN_DELICIOUS>
+  <GD>
+    <fruit_label>1</fruit_label>
+    <fruit_name>apple</fruit_name>
+    <fruit_subtype>golden_delicious</fruit_subtype>
+    <mass>164</mass>
+    <width>7.3</width>
+    <height>7.7</height>
+    <color_score>0.7</color_score>
+  </GD>
+  <GD>
+    <fruit_label>1</fruit_label>
+    <fruit_name>apple</fruit_name>
+    <fruit_subtype>golden_delicious</fruit_subtype>
+    <mass>152</mass>
+    <width>7.6</width>
+    <height>7.3</height>
+    <color_score>0.69</color_score>
+  </GD>
+  <GD>
+    <fruit_label>1</fruit_label>
+    <fruit_name>apple</fruit_name>
+    <fruit_subtype>golden_delicious</fruit_subtype>
+    <mass>156</mass>
+    <width>7.7</width>
+    <height>7.1</height>
+    <color_score>0.69</color_score>
+  </GD>
+  <GD>
+    <fruit_label>1</fruit_label>
+    <fruit_name>apple</fruit_name>
+    <fruit_subtype>golden_delicious</fruit_subtype>
+    <mass>156</mass>
+    <width>7.6</width>
+    <height>7.5</height>
+    <color_score>0.67</color_score>
+  </GD>
+  <GD>
+    <fruit_label>1</fruit_label>
+    <fruit_name>apple</fruit_name>
+    <fruit_subtype>golden_delicious</fruit_subtype>
+    <mass>168</mass>
+    <width>7.5</width>
+    <height>7.6</height>
+    <color_score>0.73</color_score>
+  </GD>
+</GOLDEN_DELICIOUS>
